@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Izza Iqbal
+I am Izza Iqbal, a passionate student with a keen interest in the field of Artificial Intelligence. With a deep interest in ML, I have a passion to understand and contribute to the development of technologies that underlie an increasingly sophisticated future.
 
 <!--
 **izzybug/izzybug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
