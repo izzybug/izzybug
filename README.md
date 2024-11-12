@@ -1,10 +1,6 @@
 ### Hi I'm Izza Iqbal
 I am a passionate student with a keen interest in Artificial Intelligence. With a deep interest in ML, I have a passion to understand and contribute to the development of technology for a better future.
 
-<img src="https://myreadme.vercel.app/api/embed/izzybug?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<!--
-**izzybug/izzybug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
